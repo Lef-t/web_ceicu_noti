@@ -1,0 +1,5 @@
+En esta carpeta se encuentran los posteos de noticias, en formato html, individualmente. 
+Tener en cuenta:
+	*Organizar en carpetas y subcarpetas, ej. "2016>Mayo>noticia.html"
+        *Guardar las noticias de hasta (6) meses atras. El resto se deben borrar o mantener en un backup fuera del servidor.
+        *Mostrar en la Home las 5 noticias mas recientes, y 3 destacadas. El resto se ven en "noticias anteriores".
